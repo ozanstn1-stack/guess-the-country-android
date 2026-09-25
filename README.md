@@ -16,6 +16,8 @@ Modern, hızlı ve tamamen offline çalışan Android bilgi yarışması oyunu. 
 
 - [GitHub Releases](https://github.com/ozanstn1-stack/guess-the-country-android/releases)
 - [v1.0.0 release sayfası](https://github.com/ozanstn1-stack/guess-the-country-android/releases/tag/v1.0.0)
+- [Download signed release APK](https://github.com/ozanstn1-stack/guess-the-country-android/releases/download/v1.0.0/app-release.apk)
+- [Download debug APK](https://github.com/ozanstn1-stack/guess-the-country-android/releases/download/v1.0.0/app-debug.apk)
 - Debug APK, Android 8.0 (API 26) ve üzeri cihazlara kurulabilir.
 - Android'de `Dosyalar` uygulamasından APK'yı açıp yükleme izni verin.
 
