@@ -1,0 +1,4092 @@
+[
+    {
+        "countryName":  "Afghanistan",
+        "countryCode":  "AF",
+        "capital":  "Kabul",
+        "continent":  "Asia",
+        "currency":  "Afghan afghani",
+        "currencyCode":  "AFN",
+        "flag":  "🇦🇫",
+        "mapImage":  "map_af",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "AF",
+                                 "Afġānistān"
+                             ],
+        "countryNameTr":  "Afganistan"
+    },
+    {
+        "countryName":  "Angola",
+        "countryCode":  "AO",
+        "capital":  "Luanda",
+        "continent":  "Africa",
+        "currency":  "Angolan kwanza",
+        "currencyCode":  "AOA",
+        "flag":  "🇦🇴",
+        "mapImage":  "map_ao",
+        "famousPlaces":  [
+                             "Luanda",
+                             "Kalandula Falls",
+                             "Muxima"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "AO",
+                                 "República de Angola",
+                                 "ʁɛpublika de an\u0027ɡɔla"
+                             ],
+        "countryNameTr":  "Angola"
+    },
+    {
+        "countryName":  "Albania",
+        "countryCode":  "AL",
+        "capital":  "Tirana",
+        "continent":  "Europe",
+        "currency":  "Albanian lek",
+        "currencyCode":  "ALL",
+        "flag":  "🇦🇱",
+        "mapImage":  "map_al",
+        "famousPlaces":  [
+                             "GjirokastÃ«r",
+                             "HimarÃ«",
+                             "Ksar"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "AL",
+                                 "Shqipëri",
+                                 "Shqipëria",
+                                 "Shqipnia"
+                             ],
+        "countryNameTr":  "Arnavutluk"
+    },
+    {
+        "countryName":  "Andorra",
+        "countryCode":  "AD",
+        "capital":  "Andorra la Vella",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇦🇩",
+        "mapImage":  "map_ad",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "AD",
+                                 "Principality of Andorra",
+                                 "Principat d\u0027Andorra"
+                             ],
+        "countryNameTr":  "Andorra"
+    },
+    {
+        "countryName":  "United Arab Emirates",
+        "countryCode":  "AE",
+        "capital":  "Abu Dhabi",
+        "continent":  "Asia",
+        "currency":  "United Arab Emirates dirham",
+        "currencyCode":  "AED",
+        "flag":  "🇦🇪",
+        "mapImage":  "map_ae",
+        "famousPlaces":  [
+                             "Burj Khalifa",
+                             "Sheikh Zayed Camii",
+                             "Liwa Ã‡Ã¶lÃ¼"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "AE",
+                                 "UAE",
+                                 "Emirates"
+                             ],
+        "countryNameTr":  "Birleşik Arap Emirlikleri"
+    },
+    {
+        "countryName":  "Argentina",
+        "countryCode":  "AR",
+        "capital":  "Buenos Aires",
+        "continent":  "Americas",
+        "currency":  "Argentine peso",
+        "currencyCode":  "ARS",
+        "flag":  "🇦🇷",
+        "mapImage":  "map_ar",
+        "famousPlaces":  [
+                             "Perito Moreno BuzuluÄŸu",
+                             "Bariloche",
+                             "Peruac"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "AR",
+                                 "Argentine Republic",
+                                 "República Argentina"
+                             ],
+        "countryNameTr":  "Arjantin"
+    },
+    {
+        "countryName":  "Armenia",
+        "countryCode":  "AM",
+        "capital":  "Yerevan",
+        "continent":  "Asia",
+        "currency":  "Armenian dram",
+        "currencyCode":  "AMD",
+        "flag":  "🇦🇲",
+        "mapImage":  "map_am",
+        "famousPlaces":  [
+                             "Geghard",
+                             "Yerevan",
+                             "Haghpat"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "AM",
+                                 "Hayastan",
+                                 "Republic of Armenia",
+                                 "Հայաստանի Հանրապետություն"
+                             ],
+        "countryNameTr":  "Ermenistan"
+    },
+    {
+        "countryName":  "Antigua and Barbuda",
+        "countryCode":  "AG",
+        "capital":  "Saint John\u0027s",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇦🇬",
+        "mapImage":  "map_ag",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "AG"
+                             ],
+        "countryNameTr":  "Antigua ve Barbuda"
+    },
+    {
+        "countryName":  "Australia",
+        "countryCode":  "AU",
+        "capital":  "Canberra",
+        "continent":  "Oceania",
+        "currency":  "Australian dollar",
+        "currencyCode":  "AUD",
+        "flag":  "🇦🇺",
+        "mapImage":  "map_au",
+        "famousPlaces":  [
+                             "Sydney Opera BinasÄ±",
+                             "Uluru",
+                             "Great Barrier Reef"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "AU"
+                             ],
+        "countryNameTr":  "Avustralya"
+    },
+    {
+        "countryName":  "Austria",
+        "countryCode":  "AT",
+        "capital":  "Vienna",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇦🇹",
+        "mapImage":  "map_at",
+        "famousPlaces":  [
+                             "SchÃ¶nbrunn SarayÄ±",
+                             "Salzburg",
+                             "Hallstatt"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "AT",
+                                 "Osterreich",
+                                 "Oesterreich"
+                             ],
+        "countryNameTr":  "Avusturya"
+    },
+    {
+        "countryName":  "Azerbaijan",
+        "countryCode":  "AZ",
+        "capital":  "Baku",
+        "continent":  "Asia",
+        "currency":  "Azerbaijani manat",
+        "currencyCode":  "AZN",
+        "flag":  "🇦🇿",
+        "mapImage":  "map_az",
+        "famousPlaces":  [
+                             "Baku",
+                             "Gobustan",
+                             "Sheki"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "AZ",
+                                 "Republic of Azerbaijan",
+                                 "Azərbaycan Respublikası"
+                             ],
+        "countryNameTr":  "Azerbaycan"
+    },
+    {
+        "countryName":  "Burundi",
+        "countryCode":  "BI",
+        "capital":  "Gitega",
+        "continent":  "Africa",
+        "currency":  "Burundian franc",
+        "currencyCode":  "BIF",
+        "flag":  "🇧🇮",
+        "mapImage":  "map_bi",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BI",
+                                 "Republic of Burundi",
+                                 "Republika y\u0027Uburundi",
+                                 "République du Burundi"
+                             ],
+        "countryNameTr":  "Burundi"
+    },
+    {
+        "countryName":  "Belgium",
+        "countryCode":  "BE",
+        "capital":  "Brussels",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇧🇪",
+        "mapImage":  "map_be",
+        "famousPlaces":  [
+                             "Grand Place",
+                             "Bruges MeydanÄ±",
+                             "Atomium"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "BE",
+                                 "België",
+                                 "Belgie",
+                                 "Belgien"
+                             ],
+        "countryNameTr":  "Belçika"
+    },
+    {
+        "countryName":  "Benin",
+        "countryCode":  "BJ",
+        "capital":  "Porto-Novo",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇧🇯",
+        "mapImage":  "map_bj",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "BJ",
+                                 "Republic of Benin",
+                                 "République du Bénin"
+                             ],
+        "countryNameTr":  "Benin"
+    },
+    {
+        "countryName":  "Burkina Faso",
+        "countryCode":  "BF",
+        "capital":  "Ouagadougou",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇧🇫",
+        "mapImage":  "map_bf",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "BF"
+                             ],
+        "countryNameTr":  "Burkina Faso"
+    },
+    {
+        "countryName":  "Bangladesh",
+        "countryCode":  "BD",
+        "capital":  "Dhaka",
+        "continent":  "Asia",
+        "currency":  "Bangladeshi taka",
+        "currencyCode":  "BDT",
+        "flag":  "🇧🇩",
+        "mapImage":  "map_bd",
+        "famousPlaces":  [
+                             "Sundarbans",
+                             "Eski Dhaka",
+                             "Chittagong"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BD",
+                                 "People\u0027s Republic of Bangladesh",
+                                 "Gônôprôjatôntri Bangladesh"
+                             ],
+        "countryNameTr":  "Bangladeş"
+    },
+    {
+        "countryName":  "Bulgaria",
+        "countryCode":  "BG",
+        "capital":  "Sofia",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇧🇬",
+        "mapImage":  "map_bg",
+        "famousPlaces":  [
+                             "Rila ManastÄ±rÄ±",
+                             "Boyana Kilisesi",
+                             "Sofya"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BG",
+                                 "Republic of Bulgaria",
+                                 "Република България"
+                             ],
+        "countryNameTr":  "Bulgaristan"
+    },
+    {
+        "countryName":  "Bahrain",
+        "countryCode":  "BH",
+        "capital":  "Manama",
+        "continent":  "Asia",
+        "currency":  "Bahraini dinar",
+        "currencyCode":  "BHD",
+        "flag":  "🇧🇭",
+        "mapImage":  "map_bh",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BH",
+                                 "Kingdom of Bahrain",
+                                 "Mamlakat al-Baḥrayn"
+                             ],
+        "countryNameTr":  "Bahreyn"
+    },
+    {
+        "countryName":  "Bahamas",
+        "countryCode":  "BS",
+        "capital":  "Nassau",
+        "continent":  "Americas",
+        "currency":  "Bahamian dollar",
+        "currencyCode":  "BSD",
+        "flag":  "🇧🇸",
+        "mapImage":  "map_bs",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BS",
+                                 "Commonwealth of the Bahamas"
+                             ],
+        "countryNameTr":  "Bahamalar"
+    },
+    {
+        "countryName":  "Bosnia and Herzegovina",
+        "countryCode":  "BA",
+        "capital":  "Sarajevo",
+        "continent":  "Europe",
+        "currency":  "Bosnia and Herzegovina convertible mark",
+        "currencyCode":  "BAM",
+        "flag":  "🇧🇦",
+        "mapImage":  "map_ba",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BA",
+                                 "Bosnia-Herzegovina",
+                                 "Босна и Херцеговина"
+                             ],
+        "countryNameTr":  "Bosna-Hersek"
+    },
+    {
+        "countryName":  "Belarus",
+        "countryCode":  "BY",
+        "capital":  "Minsk",
+        "continent":  "Europe",
+        "currency":  "Belarusian ruble",
+        "currencyCode":  "BYN",
+        "flag":  "🇧🇾",
+        "mapImage":  "map_by",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BY",
+                                 "Bielaruś",
+                                 "Republic of Belarus",
+                                 "Белоруссия"
+                             ],
+        "countryNameTr":  "Belarus"
+    },
+    {
+        "countryName":  "Belize",
+        "countryCode":  "BZ",
+        "capital":  "Belmopan",
+        "continent":  "Americas",
+        "currency":  "Belize dollar",
+        "currencyCode":  "BZD",
+        "flag":  "🇧🇿",
+        "mapImage":  "map_bz",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BZ"
+                             ],
+        "countryNameTr":  "Belize"
+    },
+    {
+        "countryName":  "Bolivia",
+        "countryCode":  "BO",
+        "capital":  "Sucre",
+        "continent":  "Americas",
+        "currency":  "Bolivian boliviano",
+        "currencyCode":  "BOB",
+        "flag":  "🇧🇴",
+        "mapImage":  "map_bo",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BO",
+                                 "Buliwya",
+                                 "Wuliwya",
+                                 "Bolivia, Plurinational State of"
+                             ],
+        "countryNameTr":  "Bolivya"
+    },
+    {
+        "countryName":  "Brazil",
+        "countryCode":  "BR",
+        "capital":  "Brasília",
+        "continent":  "Americas",
+        "currency":  "Brazilian real",
+        "currencyCode":  "BRL",
+        "flag":  "🇧🇷",
+        "mapImage":  "map_br",
+        "famousPlaces":  [
+                             "Kristos KurtarÄ±cÄ±",
+                             "Iguazu Åelalesi",
+                             "Amazon"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "BR",
+                                 "Brasil",
+                                 "Federative Republic of Brazil",
+                                 "República Federativa do Brasil"
+                             ],
+        "countryNameTr":  "Brezilya"
+    },
+    {
+        "countryName":  "Barbados",
+        "countryCode":  "BB",
+        "capital":  "Bridgetown",
+        "continent":  "Americas",
+        "currency":  "Barbadian dollar",
+        "currencyCode":  "BBD",
+        "flag":  "🇧🇧",
+        "mapImage":  "map_bb",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BB"
+                             ],
+        "countryNameTr":  "Barbados"
+    },
+    {
+        "countryName":  "Brunei",
+        "countryCode":  "BN",
+        "capital":  "Bandar Seri Begawan",
+        "continent":  "Asia",
+        "currency":  "Brunei dollar",
+        "currencyCode":  "BND",
+        "flag":  "🇧🇳",
+        "mapImage":  "map_bn",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BN",
+                                 "Brunei Darussalam",
+                                 "Nation of Brunei",
+                                 "the Abode of Peace"
+                             ],
+        "countryNameTr":  "Brunei"
+    },
+    {
+        "countryName":  "Bhutan",
+        "countryCode":  "BT",
+        "capital":  "Thimphu",
+        "continent":  "Asia",
+        "currency":  "Bhutanese ngultrum",
+        "currencyCode":  "BTN",
+        "flag":  "🇧🇹",
+        "mapImage":  "map_bt",
+        "famousPlaces":  [
+                             "Paro Tashi ChÃ¶dzÃ¶",
+                             "Punakha",
+                             "Tiger Nest"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "BT",
+                                 "Kingdom of Bhutan"
+                             ],
+        "countryNameTr":  "Butan"
+    },
+    {
+        "countryName":  "Botswana",
+        "countryCode":  "BW",
+        "capital":  "Gaborone",
+        "continent":  "Africa",
+        "currency":  "Botswana pula",
+        "currencyCode":  "BWP",
+        "flag":  "🇧🇼",
+        "mapImage":  "map_bw",
+        "famousPlaces":  [
+                             "Okavango Delta",
+                             "Makgadikgadi",
+                             "Chobe"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "BW",
+                                 "Republic of Botswana",
+                                 "Lefatshe la Botswana"
+                             ],
+        "countryNameTr":  "Botsvana"
+    },
+    {
+        "countryName":  "Central African Republic",
+        "countryCode":  "CF",
+        "capital":  "Bangui",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇨🇫",
+        "mapImage":  "map_cf",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CF",
+                                 "Central African Republic",
+                                 "République centrafricaine"
+                             ],
+        "countryNameTr":  "Orta Afrika Cumhuriyeti"
+    },
+    {
+        "countryName":  "Canada",
+        "countryCode":  "CA",
+        "capital":  "Ottawa",
+        "continent":  "Americas",
+        "currency":  "Canadian dollar",
+        "currencyCode":  "CAD",
+        "flag":  "🇨🇦",
+        "mapImage":  "map_ca",
+        "famousPlaces":  [
+                             "Niagara Åelalesi",
+                             "Banff Milli ParkÄ±",
+                             "Old Montreal"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "CA"
+                             ],
+        "countryNameTr":  "Kanada"
+    },
+    {
+        "countryName":  "Switzerland",
+        "countryCode":  "CH",
+        "capital":  "Bern",
+        "continent":  "Europe",
+        "currency":  "Swiss franc",
+        "currencyCode":  "CHF",
+        "flag":  "🇨🇭",
+        "mapImage":  "map_ch",
+        "famousPlaces":  [
+                             "Matterhorn",
+                             "Jungfrau DaÄŸÄ±",
+                             "Ä°sviÃ§re Alpleri"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "CH",
+                                 "Swiss Confederation",
+                                 "Schweiz",
+                                 "Suisse"
+                             ],
+        "countryNameTr":  "İsviçre"
+    },
+    {
+        "countryName":  "Chile",
+        "countryCode":  "CL",
+        "capital":  "Santiago",
+        "continent":  "Americas",
+        "currency":  "Chilean peso",
+        "currencyCode":  "CLP",
+        "flag":  "🇨🇱",
+        "mapImage":  "map_cl",
+        "famousPlaces":  [
+                             "Torres del Paine",
+                             "Valdivia OrmanÄ±",
+                             "Atacama Ã‡Ã¶lÃ¼"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CL",
+                                 "Republic of Chile",
+                                 "República de Chile"
+                             ],
+        "countryNameTr":  "şili"
+    },
+    {
+        "countryName":  "China",
+        "countryCode":  "CN",
+        "capital":  "Beijing",
+        "continent":  "Asia",
+        "currency":  "Chinese yuan",
+        "currencyCode":  "CNY",
+        "flag":  "🇨🇳",
+        "mapImage":  "map_cn",
+        "famousPlaces":  [
+                             "Great Wall",
+                             "Forbidden City",
+                             "Terracotta Army"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "CN",
+                                 "Zhōngguó",
+                                 "Zhongguo",
+                                 "Zhonghua"
+                             ],
+        "countryNameTr":  "çin"
+    },
+    {
+        "countryName":  "Ivory Coast",
+        "countryCode":  "CI",
+        "capital":  "Yamoussoukro",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇨🇮",
+        "mapImage":  "map_ci",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CI",
+                                 "Côte d\u0027Ivoire",
+                                 "Cote d\u0027Ivoire",
+                                 "Ivory Coast"
+                             ],
+        "countryNameTr":  "Fildişi Sahili"
+    },
+    {
+        "countryName":  "Cameroon",
+        "countryCode":  "CM",
+        "capital":  "Yaoundé",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇨🇲",
+        "mapImage":  "map_cm",
+        "famousPlaces":  [
+                             "YaoundÃ©",
+                             "Mount Cameroon",
+                             "Kribi"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CM",
+                                 "Republic of Cameroon",
+                                 "République du Cameroun"
+                             ],
+        "countryNameTr":  "Kamerun"
+    },
+    {
+        "countryName":  "DR Congo",
+        "countryCode":  "CD",
+        "capital":  "Kinshasa",
+        "continent":  "Africa",
+        "currency":  "Congolese franc",
+        "currencyCode":  "CDF",
+        "flag":  "🇨🇩",
+        "mapImage":  "map_cd",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CD",
+                                 "DR Congo",
+                                 "Congo-Kinshasa",
+                                 "Congo, the Democratic Republic of the"
+                             ],
+        "countryNameTr":  "Kongo Demokratik Cumhuriyeti"
+    },
+    {
+        "countryName":  "Congo",
+        "countryCode":  "CG",
+        "capital":  "Brazzaville",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇨🇬",
+        "mapImage":  "map_cg",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CG",
+                                 "Congo",
+                                 "Congo-Brazzaville"
+                             ],
+        "countryNameTr":  "Kongo Cumhuriyeti"
+    },
+    {
+        "countryName":  "Colombia",
+        "countryCode":  "CO",
+        "capital":  "Bogotá",
+        "continent":  "Americas",
+        "currency":  "Colombian peso",
+        "currencyCode":  "COP",
+        "flag":  "🇨🇴",
+        "mapImage":  "map_co",
+        "famousPlaces":  [
+                             "Cartagena",
+                             "CaÃ±o Cristales",
+                             "MedellÃ­n"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CO",
+                                 "Republic of Colombia",
+                                 "República de Colombia"
+                             ],
+        "countryNameTr":  "Kolombiya"
+    },
+    {
+        "countryName":  "Comoros",
+        "countryCode":  "KM",
+        "capital":  "Moroni",
+        "continent":  "Africa",
+        "currency":  "Comorian franc",
+        "currencyCode":  "KMF",
+        "flag":  "🇰🇲",
+        "mapImage":  "map_km",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "KM",
+                                 "Union of the Comoros",
+                                 "Union des Comores",
+                                 "Udzima wa Komori"
+                             ],
+        "countryNameTr":  "Komorlar"
+    },
+    {
+        "countryName":  "Cape Verde",
+        "countryCode":  "CV",
+        "capital":  "Praia",
+        "continent":  "Africa",
+        "currency":  "Cape Verdean escudo",
+        "currencyCode":  "CVE",
+        "flag":  "🇨🇻",
+        "mapImage":  "map_cv",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CV",
+                                 "Republic of Cabo Verde",
+                                 "República de Cabo Verde"
+                             ],
+        "countryNameTr":  "Yeşil Burun"
+    },
+    {
+        "countryName":  "Costa Rica",
+        "countryCode":  "CR",
+        "capital":  "San José",
+        "continent":  "Americas",
+        "currency":  "Costa Rican colón",
+        "currencyCode":  "CRC",
+        "flag":  "🇨🇷",
+        "mapImage":  "map_cr",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CR",
+                                 "Republic of Costa Rica",
+                                 "República de Costa Rica"
+                             ],
+        "countryNameTr":  "Kosta Rika"
+    },
+    {
+        "countryName":  "Cuba",
+        "countryCode":  "CU",
+        "capital":  "Havana",
+        "continent":  "Americas",
+        "currency":  "Cuban convertible peso",
+        "currencyCode":  "CUC",
+        "flag":  "🇨🇺",
+        "mapImage":  "map_cu",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CU",
+                                 "Republic of Cuba",
+                                 "República de Cuba"
+                             ],
+        "countryNameTr":  "Küba"
+    },
+    {
+        "countryName":  "Cyprus",
+        "countryCode":  "CY",
+        "capital":  "Nicosia",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇨🇾",
+        "mapImage":  "map_cy",
+        "famousPlaces":  [
+                             "Karpaz PeninsulasÄ±",
+                             "KÄ±brÄ±s Kalesi",
+                             "Troodos DaÄŸlarÄ±"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "CY",
+                                 "Kýpros",
+                                 "Kıbrıs",
+                                 "Republic of Cyprus"
+                             ],
+        "countryNameTr":  "Kıbrıs"
+    },
+    {
+        "countryName":  "Czechia",
+        "countryCode":  "CZ",
+        "capital":  "Prague",
+        "continent":  "Europe",
+        "currency":  "Czech koruna",
+        "currencyCode":  "CZK",
+        "flag":  "🇨🇿",
+        "mapImage":  "map_cz",
+        "famousPlaces":  [
+                             "Prag Kalesi",
+                             "Charles KÃ¶prÃ¼sÃ¼",
+                             "Cesky Krumlov"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "CZ",
+                                 "Česká republika",
+                                 "Česko"
+                             ],
+        "countryNameTr":  "çekya"
+    },
+    {
+        "countryName":  "Germany",
+        "countryCode":  "DE",
+        "capital":  "Berlin",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇩🇪",
+        "mapImage":  "map_de",
+        "famousPlaces":  [
+                             "Brandenburg KapÄ±sÄ±",
+                             "Neuschwanstein Kalesi",
+                             "RheinkÃ¶y"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "DE",
+                                 "Federal Republic of Germany",
+                                 "Bundesrepublik Deutschland"
+                             ],
+        "countryNameTr":  "Almanya"
+    },
+    {
+        "countryName":  "Djibouti",
+        "countryCode":  "DJ",
+        "capital":  "Djibouti",
+        "continent":  "Africa",
+        "currency":  "Djiboutian franc",
+        "currencyCode":  "DJF",
+        "flag":  "🇩🇯",
+        "mapImage":  "map_dj",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "DJ",
+                                 "Jabuuti",
+                                 "Gabuuti",
+                                 "Republic of Djibouti"
+                             ],
+        "countryNameTr":  "Cibuti"
+    },
+    {
+        "countryName":  "Dominica",
+        "countryCode":  "DM",
+        "capital":  "Roseau",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇩🇲",
+        "mapImage":  "map_dm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "DM",
+                                 "Dominique",
+                                 "Wai‘tu kubuli",
+                                 "Commonwealth of Dominica"
+                             ],
+        "countryNameTr":  "Dominika"
+    },
+    {
+        "countryName":  "Denmark",
+        "countryCode":  "DK",
+        "capital":  "Copenhagen",
+        "continent":  "Europe",
+        "currency":  "Danish krone",
+        "currencyCode":  "DKK",
+        "flag":  "🇩🇰",
+        "mapImage":  "map_dk",
+        "famousPlaces":  [
+                             "Kronborg Kalesi",
+                             "Nyhavn",
+                             "MÃ¸ns Klint"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "DK",
+                                 "Danmark",
+                                 "Kingdom of Denmark",
+                                 "Kongeriget Danmark"
+                             ],
+        "countryNameTr":  "Danimarka"
+    },
+    {
+        "countryName":  "Dominican Republic",
+        "countryCode":  "DO",
+        "capital":  "Santo Domingo",
+        "continent":  "Americas",
+        "currency":  "Dominican peso",
+        "currencyCode":  "DOP",
+        "flag":  "🇩🇴",
+        "mapImage":  "map_do",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "DO"
+                             ],
+        "countryNameTr":  "Dominik Cumhuriyeti"
+    },
+    {
+        "countryName":  "Algeria",
+        "countryCode":  "DZ",
+        "capital":  "Algiers",
+        "continent":  "Africa",
+        "currency":  "Algerian dinar",
+        "currencyCode":  "DZD",
+        "flag":  "🇩🇿",
+        "mapImage":  "map_dz",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "DZ",
+                                 "Dzayer",
+                                 "Algérie"
+                             ],
+        "countryNameTr":  "Cezayir"
+    },
+    {
+        "countryName":  "Ecuador",
+        "countryCode":  "EC",
+        "capital":  "Quito",
+        "continent":  "Americas",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇪🇨",
+        "mapImage":  "map_ec",
+        "famousPlaces":  [
+                             "GalÃ¡pagos",
+                             "Quito",
+                             "Cuenca"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "EC",
+                                 "Republic of Ecuador",
+                                 "República del Ecuador"
+                             ],
+        "countryNameTr":  "Ekvador"
+    },
+    {
+        "countryName":  "Egypt",
+        "countryCode":  "EG",
+        "capital":  "Cairo",
+        "continent":  "Africa",
+        "currency":  "Egyptian pound",
+        "currencyCode":  "EGP",
+        "flag":  "🇪🇬",
+        "mapImage":  "map_eg",
+        "famousPlaces":  [
+                             "Piramitler",
+                             "Karnak TapÄ±naÄŸÄ±",
+                             "Nil Nehri"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "EG",
+                                 "Arab Republic of Egypt"
+                             ],
+        "countryNameTr":  "Mısır"
+    },
+    {
+        "countryName":  "Eritrea",
+        "countryCode":  "ER",
+        "capital":  "Asmara",
+        "continent":  "Africa",
+        "currency":  "Eritrean nakfa",
+        "currencyCode":  "ERN",
+        "flag":  "🇪🇷",
+        "mapImage":  "map_er",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "ER",
+                                 "State of Eritrea",
+                                 "ሃገረ ኤርትራ",
+                                 "Dawlat Iritriyá"
+                             ],
+        "countryNameTr":  "Eritre"
+    },
+    {
+        "countryName":  "Spain",
+        "countryCode":  "ES",
+        "capital":  "Madrid",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇪🇸",
+        "mapImage":  "map_es",
+        "famousPlaces":  [
+                             "Sagrada Familia",
+                             "Alhambra",
+                             "Park GÃ¼ell"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "ES",
+                                 "Kingdom of Spain",
+                                 "Reino de España"
+                             ],
+        "countryNameTr":  "İspanya"
+    },
+    {
+        "countryName":  "Estonia",
+        "countryCode":  "EE",
+        "capital":  "Tallinn",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇪🇪",
+        "mapImage":  "map_ee",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "EE",
+                                 "Eesti",
+                                 "Republic of Estonia",
+                                 "Eesti Vabariik"
+                             ],
+        "countryNameTr":  "Estonya"
+    },
+    {
+        "countryName":  "Ethiopia",
+        "countryCode":  "ET",
+        "capital":  "Addis Ababa",
+        "continent":  "Africa",
+        "currency":  "Ethiopian birr",
+        "currencyCode":  "ETB",
+        "flag":  "🇪🇹",
+        "mapImage":  "map_et",
+        "famousPlaces":  [
+                             "Lalibela",
+                             "Danakil",
+                             "Addis Ababa"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ET",
+                                 "ʾĪtyōṗṗyā",
+                                 "Federal Democratic Republic of Ethiopia",
+                                 "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+                             ],
+        "countryNameTr":  "Etiyopya"
+    },
+    {
+        "countryName":  "Finland",
+        "countryCode":  "FI",
+        "capital":  "Helsinki",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇫🇮",
+        "mapImage":  "map_fi",
+        "famousPlaces":  [
+                             "Suomenlinna",
+                             "Santa Claus Village",
+                             "Koli Milli ParkÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "FI",
+                                 "Suomi",
+                                 "Republic of Finland",
+                                 "Suomen tasavalta"
+                             ],
+        "countryNameTr":  "Finlandiya"
+    },
+    {
+        "countryName":  "Fiji",
+        "countryCode":  "FJ",
+        "capital":  "Suva",
+        "continent":  "Oceania",
+        "currency":  "Fijian dollar",
+        "currencyCode":  "FJD",
+        "flag":  "🇫🇯",
+        "mapImage":  "map_fj",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "FJ",
+                                 "Viti",
+                                 "Republic of Fiji",
+                                 "Matanitu ko Viti"
+                             ],
+        "countryNameTr":  "Fiji"
+    },
+    {
+        "countryName":  "France",
+        "countryCode":  "FR",
+        "capital":  "Paris",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇫🇷",
+        "mapImage":  "map_fr",
+        "famousPlaces":  [
+                             "Eyfel Kulesi",
+                             "Louvre MÃ¼zesi",
+                             "Mont Saint-Michel"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "FR",
+                                 "French Republic",
+                                 "République française"
+                             ],
+        "countryNameTr":  "Fransa"
+    },
+    {
+        "countryName":  "Micronesia",
+        "countryCode":  "FM",
+        "capital":  "Palikir",
+        "continent":  "Oceania",
+        "currency":  "",
+        "currencyCode":  "",
+        "flag":  "🇫🇲",
+        "mapImage":  "map_fm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "FM",
+                                 "Federated States of Micronesia",
+                                 "Micronesia, Federated States of"
+                             ],
+        "countryNameTr":  "Mikronezya"
+    },
+    {
+        "countryName":  "Gabon",
+        "countryCode":  "GA",
+        "capital":  "Libreville",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇬🇦",
+        "mapImage":  "map_ga",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GA",
+                                 "Gabonese Republic",
+                                 "République Gabonaise"
+                             ],
+        "countryNameTr":  "Gabon"
+    },
+    {
+        "countryName":  "United Kingdom",
+        "countryCode":  "GB",
+        "capital":  "London",
+        "continent":  "Europe",
+        "currency":  "British pound",
+        "currencyCode":  "GBP",
+        "flag":  "🇬🇧",
+        "mapImage":  "map_gb",
+        "famousPlaces":  [
+                             "Big Ben",
+                             "Tower Bridge",
+                             "Stonehenge"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "GB",
+                                 "UK",
+                                 "Great Britain"
+                             ],
+        "countryNameTr":  "Birleşik Krallık"
+    },
+    {
+        "countryName":  "Georgia",
+        "countryCode":  "GE",
+        "capital":  "Tbilisi",
+        "continent":  "Asia",
+        "currency":  "lari",
+        "currencyCode":  "GEL",
+        "flag":  "🇬🇪",
+        "mapImage":  "map_ge",
+        "famousPlaces":  [
+                             "Svaneti",
+                             "Tbilisi",
+                             "Vardzia"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GE",
+                                 "Sakartvelo"
+                             ],
+        "countryNameTr":  "Gürcistan"
+    },
+    {
+        "countryName":  "Ghana",
+        "countryCode":  "GH",
+        "capital":  "Accra",
+        "continent":  "Africa",
+        "currency":  "Ghanaian cedi",
+        "currencyCode":  "GHS",
+        "flag":  "🇬🇭",
+        "mapImage":  "map_gh",
+        "famousPlaces":  [
+                             "Cape Coast Castle",
+                             "Kumasi",
+                             "Mole Milli ParkÄ±"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GH"
+                             ],
+        "countryNameTr":  "Gana"
+    },
+    {
+        "countryName":  "Guinea",
+        "countryCode":  "GN",
+        "capital":  "Conakry",
+        "continent":  "Africa",
+        "currency":  "Guinean franc",
+        "currencyCode":  "GNF",
+        "flag":  "🇬🇳",
+        "mapImage":  "map_gn",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GN",
+                                 "Republic of Guinea",
+                                 "République de Guinée"
+                             ],
+        "countryNameTr":  "Gine"
+    },
+    {
+        "countryName":  "Gambia",
+        "countryCode":  "GM",
+        "capital":  "Banjul",
+        "continent":  "Africa",
+        "currency":  "dalasi",
+        "currencyCode":  "GMD",
+        "flag":  "🇬🇲",
+        "mapImage":  "map_gm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GM",
+                                 "Republic of the Gambia"
+                             ],
+        "countryNameTr":  "Gambiya"
+    },
+    {
+        "countryName":  "Guinea-Bissau",
+        "countryCode":  "GW",
+        "capital":  "Bissau",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇬🇼",
+        "mapImage":  "map_gw",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "GW",
+                                 "Republic of Guinea-Bissau",
+                                 "República da Guiné-Bissau"
+                             ],
+        "countryNameTr":  "Gine-Bissau"
+    },
+    {
+        "countryName":  "Equatorial Guinea",
+        "countryCode":  "GQ",
+        "capital":  "Malabo",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇬🇶",
+        "mapImage":  "map_gq",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GQ",
+                                 "Republic of Equatorial Guinea",
+                                 "República de Guinea Ecuatorial",
+                                 "République de Guinée équatoriale"
+                             ],
+        "countryNameTr":  "Ekvator Ginesi"
+    },
+    {
+        "countryName":  "Greece",
+        "countryCode":  "GR",
+        "capital":  "Athens",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇬🇷",
+        "mapImage":  "map_gr",
+        "famousPlaces":  [
+                             "Akropolis",
+                             "Santorini",
+                             "Delos AdasÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "GR",
+                                 "Elláda",
+                                 "Hellenic Republic",
+                                 "Ελληνική Δημοκρατία"
+                             ],
+        "countryNameTr":  "Yunanistan"
+    },
+    {
+        "countryName":  "Grenada",
+        "countryCode":  "GD",
+        "capital":  "St. George\u0027s",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇬🇩",
+        "mapImage":  "map_gd",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GD"
+                             ],
+        "countryNameTr":  "Grenada"
+    },
+    {
+        "countryName":  "Guatemala",
+        "countryCode":  "GT",
+        "capital":  "Guatemala City",
+        "continent":  "Americas",
+        "currency":  "Guatemalan quetzal",
+        "currencyCode":  "GTQ",
+        "flag":  "🇬🇹",
+        "mapImage":  "map_gt",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GT"
+                             ],
+        "countryNameTr":  "Guatemala"
+    },
+    {
+        "countryName":  "Guyana",
+        "countryCode":  "GY",
+        "capital":  "Georgetown",
+        "continent":  "Americas",
+        "currency":  "Guyanese dollar",
+        "currencyCode":  "GYD",
+        "flag":  "🇬🇾",
+        "mapImage":  "map_gy",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "GY",
+                                 "Co-operative Republic of Guyana"
+                             ],
+        "countryNameTr":  "Guyana"
+    },
+    {
+        "countryName":  "Honduras",
+        "countryCode":  "HN",
+        "capital":  "Tegucigalpa",
+        "continent":  "Americas",
+        "currency":  "Honduran lempira",
+        "currencyCode":  "HNL",
+        "flag":  "🇭🇳",
+        "mapImage":  "map_hn",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "HN",
+                                 "Republic of Honduras",
+                                 "República de Honduras"
+                             ],
+        "countryNameTr":  "Honduras"
+    },
+    {
+        "countryName":  "Croatia",
+        "countryCode":  "HR",
+        "capital":  "Zagreb",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇭🇷",
+        "mapImage":  "map_hr",
+        "famousPlaces":  [
+                             "Dubrovnik",
+                             "Plitvice GÃ¶lÃ¼",
+                             "Diocletianus SarayÄ±"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "HR",
+                                 "Hrvatska",
+                                 "Republic of Croatia",
+                                 "Republika Hrvatska"
+                             ],
+        "countryNameTr":  "Hırvatistan"
+    },
+    {
+        "countryName":  "Haiti",
+        "countryCode":  "HT",
+        "capital":  "Port-au-Prince",
+        "continent":  "Americas",
+        "currency":  "Haitian gourde",
+        "currencyCode":  "HTG",
+        "flag":  "🇭🇹",
+        "mapImage":  "map_ht",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "HT",
+                                 "Republic of Haiti",
+                                 "République d\u0027Haïti",
+                                 "Repiblik Ayiti"
+                             ],
+        "countryNameTr":  "Haiti"
+    },
+    {
+        "countryName":  "Hungary",
+        "countryCode":  "HU",
+        "capital":  "Budapest",
+        "continent":  "Europe",
+        "currency":  "Hungarian forint",
+        "currencyCode":  "HUF",
+        "flag":  "🇭🇺",
+        "mapImage":  "map_hu",
+        "famousPlaces":  [
+                             "Parlament BinasÄ±",
+                             "Szentendre",
+                             "Lake Balaton"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "HU"
+                             ],
+        "countryNameTr":  "Macaristan"
+    },
+    {
+        "countryName":  "Indonesia",
+        "countryCode":  "ID",
+        "capital":  "Jakarta",
+        "continent":  "Asia",
+        "currency":  "Indonesian rupiah",
+        "currencyCode":  "IDR",
+        "flag":  "🇮🇩",
+        "mapImage":  "map_id",
+        "famousPlaces":  [
+                             "Borobudur",
+                             "Ubud",
+                             "Komodo AdasÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "ID",
+                                 "Republic of Indonesia",
+                                 "Republik Indonesia"
+                             ],
+        "countryNameTr":  "Endonezya"
+    },
+    {
+        "countryName":  "India",
+        "countryCode":  "IN",
+        "capital":  "New Delhi",
+        "continent":  "Asia",
+        "currency":  "Indian rupee",
+        "currencyCode":  "INR",
+        "flag":  "🇮🇳",
+        "mapImage":  "map_in",
+        "famousPlaces":  [
+                             "Taj Mahal",
+                             "Ganges Nehri",
+                             "Amber Kalesi"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "IN",
+                                 "Bhārat",
+                                 "Republic of India",
+                                 "Bharat Ganrajya"
+                             ],
+        "countryNameTr":  "Hindistan"
+    },
+    {
+        "countryName":  "Ireland",
+        "countryCode":  "IE",
+        "capital":  "Dublin",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇮🇪",
+        "mapImage":  "map_ie",
+        "famousPlaces":  [
+                             "Cliffs of Moher",
+                             "Giant Causeway",
+                             "Rock of Cashel"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "IE",
+                                 "Éire",
+                                 "Republic of Ireland",
+                                 "Poblacht na hÉireann"
+                             ],
+        "countryNameTr":  "İrlanda"
+    },
+    {
+        "countryName":  "Iran",
+        "countryCode":  "IR",
+        "capital":  "Tehran",
+        "continent":  "Asia",
+        "currency":  "Iranian rial",
+        "currencyCode":  "IRR",
+        "flag":  "🇮🇷",
+        "mapImage":  "map_ir",
+        "famousPlaces":  [
+                             "Persepolis",
+                             "Naqsh-e Rustam",
+                             "Haft Tan"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "IR",
+                                 "Islamic Republic of Iran",
+                                 "Iran, Islamic Republic of",
+                                 "Jomhuri-ye Eslāmi-ye Irān"
+                             ],
+        "countryNameTr":  "İran"
+    },
+    {
+        "countryName":  "Iraq",
+        "countryCode":  "IQ",
+        "capital":  "Baghdad",
+        "continent":  "Asia",
+        "currency":  "Iraqi dinar",
+        "currencyCode":  "IQD",
+        "flag":  "🇮🇶",
+        "mapImage":  "map_iq",
+        "famousPlaces":  [
+                             "Erbil Citadeli",
+                             "Kadhimiya",
+                             "Samarra"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "IQ",
+                                 "Republic of Iraq",
+                                 "Jumhūriyyat al-‘Irāq"
+                             ],
+        "countryNameTr":  "Irak"
+    },
+    {
+        "countryName":  "Iceland",
+        "countryCode":  "IS",
+        "capital":  "Reykjavik",
+        "continent":  "Europe",
+        "currency":  "Icelandic króna",
+        "currencyCode":  "ISK",
+        "flag":  "🇮🇸",
+        "mapImage":  "map_is",
+        "famousPlaces":  [
+                             "Gullfoss",
+                             "Blue Lagoon",
+                             "Thingvellir"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "IS",
+                                 "Island",
+                                 "Republic of Iceland",
+                                 "Lýðveldið Ísland"
+                             ],
+        "countryNameTr":  "İzlanda"
+    },
+    {
+        "countryName":  "Israel",
+        "countryCode":  "IL",
+        "capital":  "Jerusalem",
+        "continent":  "Asia",
+        "currency":  "Israeli new shekel",
+        "currencyCode":  "ILS",
+        "flag":  "🇮🇱",
+        "mapImage":  "map_il",
+        "famousPlaces":  [
+                             "BatÄ± DuvarÄ±",
+                             "BahÃ¡Ê¼i BahÃ§eleri",
+                             "Ã–lÃ¼ Deniz"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "IL",
+                                 "State of Israel",
+                                 "Medīnat Yisrā\u0027el"
+                             ],
+        "countryNameTr":  "İsrail"
+    },
+    {
+        "countryName":  "Italy",
+        "countryCode":  "IT",
+        "capital":  "Rome",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇮🇹",
+        "mapImage":  "map_it",
+        "famousPlaces":  [
+                             "Kolosseum",
+                             "Vatikan",
+                             "Pompeii"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "IT",
+                                 "Italian Republic",
+                                 "Repubblica italiana"
+                             ],
+        "countryNameTr":  "İtalya"
+    },
+    {
+        "countryName":  "Jamaica",
+        "countryCode":  "JM",
+        "capital":  "Kingston",
+        "continent":  "Americas",
+        "currency":  "Jamaican dollar",
+        "currencyCode":  "JMD",
+        "flag":  "🇯🇲",
+        "mapImage":  "map_jm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "JM"
+                             ],
+        "countryNameTr":  "Jamaika"
+    },
+    {
+        "countryName":  "Jordan",
+        "countryCode":  "JO",
+        "capital":  "Amman",
+        "continent":  "Asia",
+        "currency":  "Jordanian dinar",
+        "currencyCode":  "JOD",
+        "flag":  "🇯🇴",
+        "mapImage":  "map_jo",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "JO",
+                                 "Hashemite Kingdom of Jordan",
+                                 "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+                             ],
+        "countryNameTr":  "ürdün"
+    },
+    {
+        "countryName":  "Japan",
+        "countryCode":  "JP",
+        "capital":  "Tokyo",
+        "continent":  "Asia",
+        "currency":  "Japanese yen",
+        "currencyCode":  "JPY",
+        "flag":  "🇯🇵",
+        "mapImage":  "map_jp",
+        "famousPlaces":  [
+                             "Fushimi Inari",
+                             "Mount Fuji",
+                             "Itsukushima AdasÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "JP",
+                                 "Nippon",
+                                 "Nihon"
+                             ],
+        "countryNameTr":  "Japonya"
+    },
+    {
+        "countryName":  "Kazakhstan",
+        "countryCode":  "KZ",
+        "capital":  "Astana",
+        "continent":  "Asia",
+        "currency":  "Kazakhstani tenge",
+        "currencyCode":  "KZT",
+        "flag":  "🇰🇿",
+        "mapImage":  "map_kz",
+        "famousPlaces":  [
+                             "Charyn Canyon",
+                             "Almaty",
+                             "BaikÃ¶l"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KZ",
+                                 "Qazaqstan",
+                                 "Казахстан",
+                                 "Republic of Kazakhstan"
+                             ],
+        "countryNameTr":  "Kazakistan"
+    },
+    {
+        "countryName":  "Kenya",
+        "countryCode":  "KE",
+        "capital":  "Nairobi",
+        "continent":  "Africa",
+        "currency":  "Kenyan shilling",
+        "currencyCode":  "KES",
+        "flag":  "🇰🇪",
+        "mapImage":  "map_ke",
+        "famousPlaces":  [
+                             "Maasai Mara",
+                             "Nairobi",
+                             "Lake Nakuru"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KE",
+                                 "Republic of Kenya",
+                                 "Jamhuri ya Kenya"
+                             ],
+        "countryNameTr":  "Kenya"
+    },
+    {
+        "countryName":  "Kyrgyzstan",
+        "countryCode":  "KG",
+        "capital":  "Bishkek",
+        "continent":  "Asia",
+        "currency":  "Kyrgyzstani som",
+        "currencyCode":  "KGS",
+        "flag":  "🇰🇬",
+        "mapImage":  "map_kg",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "KG",
+                                 "Киргизия",
+                                 "Kyrgyz Republic",
+                                 "Кыргыз Республикасы"
+                             ],
+        "countryNameTr":  "Kırgızistan"
+    },
+    {
+        "countryName":  "Cambodia",
+        "countryCode":  "KH",
+        "capital":  "Phnom Penh",
+        "continent":  "Asia",
+        "currency":  "Cambodian riel",
+        "currencyCode":  "KHR",
+        "flag":  "🇰🇭",
+        "mapImage":  "map_kh",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KH",
+                                 "Kingdom of Cambodia"
+                             ],
+        "countryNameTr":  "Kamboçya"
+    },
+    {
+        "countryName":  "Kiribati",
+        "countryCode":  "KI",
+        "capital":  "South Tarawa",
+        "continent":  "Oceania",
+        "currency":  "Australian dollar",
+        "currencyCode":  "AUD",
+        "flag":  "🇰🇮",
+        "mapImage":  "map_ki",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "KI",
+                                 "Republic of Kiribati",
+                                 "Ribaberiki Kiribati"
+                             ],
+        "countryNameTr":  "Kiribati"
+    },
+    {
+        "countryName":  "Saint Kitts and Nevis",
+        "countryCode":  "KN",
+        "capital":  "Basseterre",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇰🇳",
+        "mapImage":  "map_kn",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KN",
+                                 "Federation of Saint Christopher and Nevis"
+                             ],
+        "countryNameTr":  "Saint Kitts ve Nevis"
+    },
+    {
+        "countryName":  "South Korea",
+        "countryCode":  "KR",
+        "capital":  "Seoul",
+        "continent":  "Asia",
+        "currency":  "South Korean won",
+        "currencyCode":  "KRW",
+        "flag":  "🇰🇷",
+        "mapImage":  "map_kr",
+        "famousPlaces":  [
+                             "Gyeongbokgung SarayÄ±",
+                             "Bukchon Hanok KÃ¶yÃ¼",
+                             "Seongsan Yonggungsa"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "KR",
+                                 "Korea, Republic of",
+                                 "Republic of Korea",
+                                 "남한"
+                             ],
+        "countryNameTr":  "Güney Kore"
+    },
+    {
+        "countryName":  "Kuwait",
+        "countryCode":  "KW",
+        "capital":  "Kuwait City",
+        "continent":  "Asia",
+        "currency":  "Kuwaiti dinar",
+        "currencyCode":  "KWD",
+        "flag":  "🇰🇼",
+        "mapImage":  "map_kw",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KW",
+                                 "State of Kuwait",
+                                 "Dawlat al-Kuwait"
+                             ],
+        "countryNameTr":  "Kuveyt"
+    },
+    {
+        "countryName":  "Laos",
+        "countryCode":  "LA",
+        "capital":  "Vientiane",
+        "continent":  "Asia",
+        "currency":  "Lao kip",
+        "currencyCode":  "LAK",
+        "flag":  "🇱🇦",
+        "mapImage":  "map_la",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "LA",
+                                 "Lao",
+                                 "Lao People\u0027s Democratic Republic",
+                                 "Sathalanalat Paxathipatai Paxaxon Lao"
+                             ],
+        "countryNameTr":  "Laos"
+    },
+    {
+        "countryName":  "Lebanon",
+        "countryCode":  "LB",
+        "capital":  "Beirut",
+        "continent":  "Asia",
+        "currency":  "Lebanese pound",
+        "currencyCode":  "LBP",
+        "flag":  "🇱🇧",
+        "mapImage":  "map_lb",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LB",
+                                 "Lebanese Republic",
+                                 "Al-Jumhūrīyah Al-Libnānīyah"
+                             ],
+        "countryNameTr":  "Lübnan"
+    },
+    {
+        "countryName":  "Liberia",
+        "countryCode":  "LR",
+        "capital":  "Monrovia",
+        "continent":  "Africa",
+        "currency":  "Liberian dollar",
+        "currencyCode":  "LRD",
+        "flag":  "🇱🇷",
+        "mapImage":  "map_lr",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "LR",
+                                 "Republic of Liberia"
+                             ],
+        "countryNameTr":  "Liberya"
+    },
+    {
+        "countryName":  "Libya",
+        "countryCode":  "LY",
+        "capital":  "Tripoli",
+        "continent":  "Africa",
+        "currency":  "Libyan dinar",
+        "currencyCode":  "LYD",
+        "flag":  "🇱🇾",
+        "mapImage":  "map_ly",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LY",
+                                 "State of Libya",
+                                 "Dawlat Libya"
+                             ],
+        "countryNameTr":  "Libya"
+    },
+    {
+        "countryName":  "Saint Lucia",
+        "countryCode":  "LC",
+        "capital":  "Castries",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇱🇨",
+        "mapImage":  "map_lc",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LC"
+                             ],
+        "countryNameTr":  "Saint Lucia"
+    },
+    {
+        "countryName":  "Liechtenstein",
+        "countryCode":  "LI",
+        "capital":  "Vaduz",
+        "continent":  "Europe",
+        "currency":  "Swiss franc",
+        "currencyCode":  "CHF",
+        "flag":  "🇱🇮",
+        "mapImage":  "map_li",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "LI",
+                                 "Principality of Liechtenstein",
+                                 "Fürstentum Liechtenstein"
+                             ],
+        "countryNameTr":  "Lihtenştayn"
+    },
+    {
+        "countryName":  "Sri Lanka",
+        "countryCode":  "LK",
+        "capital":  "Colombo",
+        "continent":  "Asia",
+        "currency":  "Sri Lankan rupee",
+        "currencyCode":  "LKR",
+        "flag":  "🇱🇰",
+        "mapImage":  "map_lk",
+        "famousPlaces":  [
+                             "Sigiriya",
+                             "Galle LimanÄ±",
+                             "Yala Milli ParkÄ±"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LK",
+                                 "ilaṅkai",
+                                 "Democratic Socialist Republic of Sri Lanka"
+                             ],
+        "countryNameTr":  "Sri Lanka"
+    },
+    {
+        "countryName":  "Lesotho",
+        "countryCode":  "LS",
+        "capital":  "Maseru",
+        "continent":  "Africa",
+        "currency":  "Lesotho loti",
+        "currencyCode":  "LSL",
+        "flag":  "🇱🇸",
+        "mapImage":  "map_ls",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "LS",
+                                 "Kingdom of Lesotho",
+                                 "Muso oa Lesotho"
+                             ],
+        "countryNameTr":  "Lesotho"
+    },
+    {
+        "countryName":  "Lithuania",
+        "countryCode":  "LT",
+        "capital":  "Vilnius",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇱🇹",
+        "mapImage":  "map_lt",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LT",
+                                 "Republic of Lithuania",
+                                 "Lietuvos Respublika"
+                             ],
+        "countryNameTr":  "Litvanya"
+    },
+    {
+        "countryName":  "Luxembourg",
+        "countryCode":  "LU",
+        "capital":  "Luxembourg",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇱🇺",
+        "mapImage":  "map_lu",
+        "famousPlaces":  [
+                             "Luxembourg Gardens",
+                             "Vianden Kalesi",
+                             "Schloss"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LU",
+                                 "Grand Duchy of Luxembourg",
+                                 "Grand-Duché de Luxembourg",
+                                 "Großherzogtum Luxemburg"
+                             ],
+        "countryNameTr":  "Lüksemburg"
+    },
+    {
+        "countryName":  "Latvia",
+        "countryCode":  "LV",
+        "capital":  "Riga",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇱🇻",
+        "mapImage":  "map_lv",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "LV",
+                                 "Republic of Latvia",
+                                 "Latvijas Republika"
+                             ],
+        "countryNameTr":  "Letonya"
+    },
+    {
+        "countryName":  "Morocco",
+        "countryCode":  "MA",
+        "capital":  "Rabat",
+        "continent":  "Africa",
+        "currency":  "Moroccan dirham",
+        "currencyCode":  "MAD",
+        "flag":  "🇲🇦",
+        "mapImage":  "map_ma",
+        "famousPlaces":  [
+                             "Chefchaouen",
+                             "Hassan II Camii",
+                             "Atlas DaÄŸlarÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "MA",
+                                 "Kingdom of Morocco",
+                                 "Al-Mamlakah al-Maġribiyah"
+                             ],
+        "countryNameTr":  "Fas"
+    },
+    {
+        "countryName":  "Monaco",
+        "countryCode":  "MC",
+        "capital":  "Monaco",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇲🇨",
+        "mapImage":  "map_mc",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MC",
+                                 "Principality of Monaco",
+                                 "Principauté de Monaco"
+                             ],
+        "countryNameTr":  "Monako"
+    },
+    {
+        "countryName":  "Moldova",
+        "countryCode":  "MD",
+        "capital":  "Chișinău",
+        "continent":  "Europe",
+        "currency":  "Moldovan leu",
+        "currencyCode":  "MDL",
+        "flag":  "🇲🇩",
+        "mapImage":  "map_md",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MD",
+                                 "Moldova, Republic of",
+                                 "Republic of Moldova",
+                                 "Republica Moldova"
+                             ],
+        "countryNameTr":  "Moldova"
+    },
+    {
+        "countryName":  "Madagascar",
+        "countryCode":  "MG",
+        "capital":  "Antananarivo",
+        "continent":  "Africa",
+        "currency":  "Malagasy ariary",
+        "currencyCode":  "MGA",
+        "flag":  "🇲🇬",
+        "mapImage":  "map_mg",
+        "famousPlaces":  [
+                             "Avenue of the Baobabs",
+                             "Tsingy",
+                             "Antananarivo"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MG",
+                                 "Republic of Madagascar",
+                                 "Repoblikan\u0027i Madagasikara",
+                                 "République de Madagascar"
+                             ],
+        "countryNameTr":  "Madagaskar"
+    },
+    {
+        "countryName":  "Maldives",
+        "countryCode":  "MV",
+        "capital":  "Malé",
+        "continent":  "Asia",
+        "currency":  "Maldivian rufiyaa",
+        "currencyCode":  "MVR",
+        "flag":  "🇲🇻",
+        "mapImage":  "map_mv",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MV",
+                                 "Maldive Islands",
+                                 "Republic of the Maldives",
+                                 "Dhivehi Raajjeyge Jumhooriyya"
+                             ],
+        "countryNameTr":  "Maldivler"
+    },
+    {
+        "countryName":  "Mexico",
+        "countryCode":  "MX",
+        "capital":  "Mexico City",
+        "continent":  "Americas",
+        "currency":  "Mexican peso",
+        "currencyCode":  "MXN",
+        "flag":  "🇲🇽",
+        "mapImage":  "map_mx",
+        "famousPlaces":  [
+                             "Chichen Itza",
+                             "Teotihuacan",
+                             "Tulum"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "MX",
+                                 "Mexicanos",
+                                 "United Mexican States",
+                                 "Estados Unidos Mexicanos"
+                             ],
+        "countryNameTr":  "Meksika"
+    },
+    {
+        "countryName":  "Marshall Islands",
+        "countryCode":  "MH",
+        "capital":  "Majuro",
+        "continent":  "Oceania",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇲🇭",
+        "mapImage":  "map_mh",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MH",
+                                 "Republic of the Marshall Islands",
+                                 "Aolepān Aorōkin M̧ajeļ"
+                             ],
+        "countryNameTr":  "Marshall Adaları"
+    },
+    {
+        "countryName":  "North Macedonia",
+        "countryCode":  "MK",
+        "capital":  "Skopje",
+        "continent":  "Europe",
+        "currency":  "denar",
+        "currencyCode":  "MKD",
+        "flag":  "🇲🇰",
+        "mapImage":  "map_mk",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MK",
+                                 "The former Yugoslav Republic of Macedonia",
+                                 "Republic of North Macedonia",
+                                 "Macedonia, The Former Yugoslav Republic of"
+                             ],
+        "countryNameTr":  "Kuzey Makedonya"
+    },
+    {
+        "countryName":  "Mali",
+        "countryCode":  "ML",
+        "capital":  "Bamako",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇲🇱",
+        "mapImage":  "map_ml",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ML",
+                                 "Republic of Mali",
+                                 "République du Mali"
+                             ],
+        "countryNameTr":  "Mali"
+    },
+    {
+        "countryName":  "Malta",
+        "countryCode":  "MT",
+        "capital":  "Valletta",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇲🇹",
+        "mapImage":  "map_mt",
+        "famousPlaces":  [
+                             "Mdina",
+                             "Blue Grotto",
+                             "Ä°loca"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MT",
+                                 "Republic of Malta",
+                                 "Repubblika ta\u0027 Malta"
+                             ],
+        "countryNameTr":  "Malta"
+    },
+    {
+        "countryName":  "Myanmar",
+        "countryCode":  "MM",
+        "capital":  "Naypyidaw",
+        "continent":  "Asia",
+        "currency":  "Burmese kyat",
+        "currencyCode":  "MMK",
+        "flag":  "🇲🇲",
+        "mapImage":  "map_mm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MM",
+                                 "Burma",
+                                 "Republic of the Union of Myanmar",
+                                 "Pyidaunzu Thanmăda Myăma Nainngandaw"
+                             ],
+        "countryNameTr":  "Myanmar"
+    },
+    {
+        "countryName":  "Montenegro",
+        "countryCode":  "ME",
+        "capital":  "Podgorica",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇲🇪",
+        "mapImage":  "map_me",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ME",
+                                 "Crna Gora"
+                             ],
+        "countryNameTr":  "Karadağ"
+    },
+    {
+        "countryName":  "Mongolia",
+        "countryCode":  "MN",
+        "capital":  "Ulan Bator",
+        "continent":  "Asia",
+        "currency":  "Mongolian tögrög",
+        "currencyCode":  "MNT",
+        "flag":  "🇲🇳",
+        "mapImage":  "map_mn",
+        "famousPlaces":  [
+                             "Gobi Ã‡Ã¶lÃ¼",
+                             "Ulaanbaatar",
+                             "Terelj"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MN"
+                             ],
+        "countryNameTr":  "Moğolistan"
+    },
+    {
+        "countryName":  "Mozambique",
+        "countryCode":  "MZ",
+        "capital":  "Maputo",
+        "continent":  "Africa",
+        "currency":  "Mozambican metical",
+        "currencyCode":  "MZN",
+        "flag":  "🇲🇿",
+        "mapImage":  "map_mz",
+        "famousPlaces":  [
+                             "Gorongosa",
+                             "Bazaruto",
+                             "Maputo"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MZ",
+                                 "Republic of Mozambique",
+                                 "República de Moçambique"
+                             ],
+        "countryNameTr":  "Mozambik"
+    },
+    {
+        "countryName":  "Mauritania",
+        "countryCode":  "MR",
+        "capital":  "Nouakchott",
+        "continent":  "Africa",
+        "currency":  "Mauritanian ouguiya",
+        "currencyCode":  "MRU",
+        "flag":  "🇲🇷",
+        "mapImage":  "map_mr",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MR",
+                                 "Islamic Republic of Mauritania",
+                                 "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+                             ],
+        "countryNameTr":  "Moritanya"
+    },
+    {
+        "countryName":  "Mauritius",
+        "countryCode":  "MU",
+        "capital":  "Port Louis",
+        "continent":  "Africa",
+        "currency":  "Mauritian rupee",
+        "currencyCode":  "MUR",
+        "flag":  "🇲🇺",
+        "mapImage":  "map_mu",
+        "famousPlaces":  [
+                             "Le Morne",
+                             "Chamarel",
+                             "Black River Gorges"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "MU",
+                                 "Republic of Mauritius",
+                                 "République de Maurice"
+                             ],
+        "countryNameTr":  "Mauritius"
+    },
+    {
+        "countryName":  "Malawi",
+        "countryCode":  "MW",
+        "capital":  "Lilongwe",
+        "continent":  "Africa",
+        "currency":  "Malawian kwacha",
+        "currencyCode":  "MWK",
+        "flag":  "🇲🇼",
+        "mapImage":  "map_mw",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "MW",
+                                 "Republic of Malawi"
+                             ],
+        "countryNameTr":  "Malavi"
+    },
+    {
+        "countryName":  "Malaysia",
+        "countryCode":  "MY",
+        "capital":  "Kuala Lumpur",
+        "continent":  "Asia",
+        "currency":  "Malaysian ringgit",
+        "currencyCode":  "MYR",
+        "flag":  "🇲🇾",
+        "mapImage":  "map_my",
+        "famousPlaces":  [
+                             "Petronas Kuleleri",
+                             "George Town",
+                             "Mount Kinabalu"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "MY"
+                             ],
+        "countryNameTr":  "Malezya"
+    },
+    {
+        "countryName":  "Namibia",
+        "countryCode":  "NA",
+        "capital":  "Windhoek",
+        "continent":  "Africa",
+        "currency":  "Namibian dollar",
+        "currencyCode":  "NAD",
+        "flag":  "🇳🇦",
+        "mapImage":  "map_na",
+        "famousPlaces":  [
+                             "Sossusvlei",
+                             "Etosha",
+                             "Skeleton Coast"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "NA",
+                                 "Namibië",
+                                 "Republic of Namibia"
+                             ],
+        "countryNameTr":  "Namibya"
+    },
+    {
+        "countryName":  "Niger",
+        "countryCode":  "NE",
+        "capital":  "Niamey",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇳🇪",
+        "mapImage":  "map_ne",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "NE",
+                                 "Nijar"
+                             ],
+        "countryNameTr":  "Nijer"
+    },
+    {
+        "countryName":  "Nigeria",
+        "countryCode":  "NG",
+        "capital":  "Abuja",
+        "continent":  "Africa",
+        "currency":  "Nigerian naira",
+        "currencyCode":  "NGN",
+        "flag":  "🇳🇬",
+        "mapImage":  "map_ng",
+        "famousPlaces":  [
+                             "Zik DaÄŸÄ±",
+                             "Lagos",
+                             "Sokoto"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "NG",
+                                 "Nijeriya",
+                                 "Naíjíríà",
+                                 "Federal Republic of Nigeria"
+                             ],
+        "countryNameTr":  "Nijerya"
+    },
+    {
+        "countryName":  "Nicaragua",
+        "countryCode":  "NI",
+        "capital":  "Managua",
+        "continent":  "Americas",
+        "currency":  "Nicaraguan córdoba",
+        "currencyCode":  "NIO",
+        "flag":  "🇳🇮",
+        "mapImage":  "map_ni",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "NI",
+                                 "Republic of Nicaragua",
+                                 "República de Nicaragua"
+                             ],
+        "countryNameTr":  "Nikaragua"
+    },
+    {
+        "countryName":  "Netherlands",
+        "countryCode":  "NL",
+        "capital":  "Amsterdam",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇳🇱",
+        "mapImage":  "map_nl",
+        "famousPlaces":  [
+                             "Rijksmuseum",
+                             "Keukenhof BahÃ§eleri",
+                             "Kinderdijk"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "NL",
+                                 "Holland",
+                                 "Nederland",
+                                 "The Netherlands"
+                             ],
+        "countryNameTr":  "Hollanda"
+    },
+    {
+        "countryName":  "Norway",
+        "countryCode":  "NO",
+        "capital":  "Oslo",
+        "continent":  "Europe",
+        "currency":  "Norwegian krone",
+        "currencyCode":  "NOK",
+        "flag":  "🇳🇴",
+        "mapImage":  "map_no",
+        "famousPlaces":  [
+                             "Geiranger Fiyordu",
+                             "Bergen",
+                             "Preikestolen"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "NO",
+                                 "Norge",
+                                 "Noreg",
+                                 "Kingdom of Norway"
+                             ],
+        "countryNameTr":  "Norveç"
+    },
+    {
+        "countryName":  "Nepal",
+        "countryCode":  "NP",
+        "capital":  "Kathmandu",
+        "continent":  "Asia",
+        "currency":  "Nepalese rupee",
+        "currencyCode":  "NPR",
+        "flag":  "🇳🇵",
+        "mapImage":  "map_np",
+        "famousPlaces":  [
+                             "Everest DaÄŸÄ±",
+                             "Pokhara",
+                             "Bhaktapur"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "NP",
+                                 "Federal Democratic Republic of Nepal",
+                                 "Loktāntrik Ganatantra Nepāl"
+                             ],
+        "countryNameTr":  "Nepal"
+    },
+    {
+        "countryName":  "Nauru",
+        "countryCode":  "NR",
+        "capital":  "Yaren",
+        "continent":  "Oceania",
+        "currency":  "Australian dollar",
+        "currencyCode":  "AUD",
+        "flag":  "🇳🇷",
+        "mapImage":  "map_nr",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "NR",
+                                 "Naoero",
+                                 "Pleasant Island",
+                                 "Republic of Nauru"
+                             ],
+        "countryNameTr":  "Nauru"
+    },
+    {
+        "countryName":  "New Zealand",
+        "countryCode":  "NZ",
+        "capital":  "Wellington",
+        "continent":  "Oceania",
+        "currency":  "New Zealand dollar",
+        "currencyCode":  "NZD",
+        "flag":  "🇳🇿",
+        "mapImage":  "map_nz",
+        "famousPlaces":  [
+                             "Milford Sound",
+                             "Hobbiton",
+                             "Tongariro Milli ParkÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "NZ",
+                                 "Aotearoa"
+                             ],
+        "countryNameTr":  "Yeni Zelanda"
+    },
+    {
+        "countryName":  "Oman",
+        "countryCode":  "OM",
+        "capital":  "Muscat",
+        "continent":  "Asia",
+        "currency":  "Omani rial",
+        "currencyCode":  "OMR",
+        "flag":  "🇴🇲",
+        "mapImage":  "map_om",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "OM",
+                                 "Sultanate of Oman",
+                                 "Salṭanat ʻUmān"
+                             ],
+        "countryNameTr":  "Umman"
+    },
+    {
+        "countryName":  "Pakistan",
+        "countryCode":  "PK",
+        "capital":  "Islamabad",
+        "continent":  "Asia",
+        "currency":  "Pakistani rupee",
+        "currencyCode":  "PKR",
+        "flag":  "🇵🇰",
+        "mapImage":  "map_pk",
+        "famousPlaces":  [
+                             "Badshahi Camii",
+                             "K2",
+                             "Skardu"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "PK",
+                                 "Pākistān",
+                                 "Islamic Republic of Pakistan",
+                                 "Islāmī Jumhūriya\u0027eh Pākistān"
+                             ],
+        "countryNameTr":  "Pakistan"
+    },
+    {
+        "countryName":  "Panama",
+        "countryCode":  "PA",
+        "capital":  "Panama City",
+        "continent":  "Americas",
+        "currency":  "Panamanian balboa",
+        "currencyCode":  "PAB",
+        "flag":  "🇵🇦",
+        "mapImage":  "map_pa",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "PA",
+                                 "Republic of Panama",
+                                 "República de Panamá"
+                             ],
+        "countryNameTr":  "Panama"
+    },
+    {
+        "countryName":  "Peru",
+        "countryCode":  "PE",
+        "capital":  "Lima",
+        "continent":  "Americas",
+        "currency":  "Peruvian sol",
+        "currencyCode":  "PEN",
+        "flag":  "🇵🇪",
+        "mapImage":  "map_pe",
+        "famousPlaces":  [
+                             "Machu Picchu",
+                             "Cusco",
+                             "Nazca Lines"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "PE",
+                                 "Republic of Peru",
+                                 "República del Perú"
+                             ],
+        "countryNameTr":  "Peru"
+    },
+    {
+        "countryName":  "Philippines",
+        "countryCode":  "PH",
+        "capital":  "Manila",
+        "continent":  "Asia",
+        "currency":  "Philippine peso",
+        "currencyCode":  "PHP",
+        "flag":  "🇵🇭",
+        "mapImage":  "map_ph",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "PH",
+                                 "Republic of the Philippines",
+                                 "Repúblika ng Pilipinas"
+                             ],
+        "countryNameTr":  "Filipinler"
+    },
+    {
+        "countryName":  "Palau",
+        "countryCode":  "PW",
+        "capital":  "Ngerulmud",
+        "continent":  "Oceania",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇵🇼",
+        "mapImage":  "map_pw",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "PW",
+                                 "Republic of Palau",
+                                 "Beluu er a Belau"
+                             ],
+        "countryNameTr":  "Palau"
+    },
+    {
+        "countryName":  "Papua New Guinea",
+        "countryCode":  "PG",
+        "capital":  "Port Moresby",
+        "continent":  "Oceania",
+        "currency":  "Papua New Guinean kina",
+        "currencyCode":  "PGK",
+        "flag":  "🇵🇬",
+        "mapImage":  "map_pg",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "PG",
+                                 "Independent State of Papua New Guinea",
+                                 "Independen Stet bilong Papua Niugini"
+                             ],
+        "countryNameTr":  "Papua Yeni Gine"
+    },
+    {
+        "countryName":  "Poland",
+        "countryCode":  "PL",
+        "capital":  "Warsaw",
+        "continent":  "Europe",
+        "currency":  "Polish złoty",
+        "currencyCode":  "PLN",
+        "flag":  "🇵🇱",
+        "mapImage":  "map_pl",
+        "famousPlaces":  [
+                             "Wawel Kalesi",
+                             "Auschwitz",
+                             "Krakow Tarih Merkezi"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "PL",
+                                 "Republic of Poland",
+                                 "Rzeczpospolita Polska"
+                             ],
+        "countryNameTr":  "Polonya"
+    },
+    {
+        "countryName":  "North Korea",
+        "countryCode":  "KP",
+        "capital":  "Pyongyang",
+        "continent":  "Asia",
+        "currency":  "North Korean won",
+        "currencyCode":  "KPW",
+        "flag":  "🇰🇵",
+        "mapImage":  "map_kp",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "KP",
+                                 "Democratic People\u0027s Republic of Korea",
+                                 "DPRK",
+                                 "조선민주주의인민공화국"
+                             ],
+        "countryNameTr":  "Kuzey Kore"
+    },
+    {
+        "countryName":  "Portugal",
+        "countryCode":  "PT",
+        "capital":  "Lisbon",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇵🇹",
+        "mapImage":  "map_pt",
+        "famousPlaces":  [
+                             "BelÃ©m Kulesi",
+                             "Pena SarayÄ±",
+                             "Douro Vadisi"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "PT",
+                                 "Portuguesa",
+                                 "Portuguese Republic",
+                                 "República Portuguesa"
+                             ],
+        "countryNameTr":  "Portekiz"
+    },
+    {
+        "countryName":  "Paraguay",
+        "countryCode":  "PY",
+        "capital":  "Asunción",
+        "continent":  "Americas",
+        "currency":  "Paraguayan guaraní",
+        "currencyCode":  "PYG",
+        "flag":  "🇵🇾",
+        "mapImage":  "map_py",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "PY",
+                                 "Republic of Paraguay",
+                                 "República del Paraguay",
+                                 "Tetã Paraguái"
+                             ],
+        "countryNameTr":  "Paraguay"
+    },
+    {
+        "countryName":  "Palestine",
+        "countryCode":  "PS",
+        "capital":  "Ramallah",
+        "continent":  "Asia",
+        "currency":  "Egyptian pound",
+        "currencyCode":  "EGP",
+        "flag":  "🇵🇸",
+        "mapImage":  "map_ps",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "PS",
+                                 "Palestine, State of",
+                                 "State of Palestine",
+                                 "Dawlat Filasṭin"
+                             ],
+        "countryNameTr":  "Filistin"
+    },
+    {
+        "countryName":  "Qatar",
+        "countryCode":  "QA",
+        "capital":  "Doha",
+        "continent":  "Asia",
+        "currency":  "Qatari riyal",
+        "currencyCode":  "QAR",
+        "flag":  "🇶🇦",
+        "mapImage":  "map_qa",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "QA",
+                                 "State of Qatar",
+                                 "Dawlat Qaṭar"
+                             ],
+        "countryNameTr":  "Katar"
+    },
+    {
+        "countryName":  "Romania",
+        "countryCode":  "RO",
+        "capital":  "Bucharest",
+        "continent":  "Europe",
+        "currency":  "Romanian leu",
+        "currencyCode":  "RON",
+        "flag":  "🇷🇴",
+        "mapImage":  "map_ro",
+        "famousPlaces":  [
+                             "Bran Kalesi",
+                             "PeleÅŸ Kalesi",
+                             "SighiÅŸoara"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "RO",
+                                 "Rumania",
+                                 "Roumania",
+                                 "România"
+                             ],
+        "countryNameTr":  "Romanya"
+    },
+    {
+        "countryName":  "Russia",
+        "countryCode":  "RU",
+        "capital":  "Moscow",
+        "continent":  "Europe",
+        "currency":  "Russian ruble",
+        "currencyCode":  "RUB",
+        "flag":  "🇷🇺",
+        "mapImage":  "map_ru",
+        "famousPlaces":  [
+                             "KÄ±zÄ±l Meydan",
+                             "Hermitage MÃ¼zesi",
+                             "Trans-Siberya"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "RU",
+                                 "Russian Federation",
+                                 "Российская Федерация"
+                             ],
+        "countryNameTr":  "Rusya"
+    },
+    {
+        "countryName":  "Rwanda",
+        "countryCode":  "RW",
+        "capital":  "Kigali",
+        "continent":  "Africa",
+        "currency":  "Rwandan franc",
+        "currencyCode":  "RWF",
+        "flag":  "🇷🇼",
+        "mapImage":  "map_rw",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "RW",
+                                 "Republic of Rwanda",
+                                 "Repubulika y\u0027u Rwanda",
+                                 "République du Rwanda"
+                             ],
+        "countryNameTr":  "Ruanda"
+    },
+    {
+        "countryName":  "Saudi Arabia",
+        "countryCode":  "SA",
+        "capital":  "Riyadh",
+        "continent":  "Asia",
+        "currency":  "Saudi riyal",
+        "currencyCode":  "SAR",
+        "flag":  "🇸🇦",
+        "mapImage":  "map_sa",
+        "famousPlaces":  [
+                             "AlUla",
+                             "Diriyah",
+                             "Abha"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "Saudi",
+                                 "SA",
+                                 "Kingdom of Saudi Arabia",
+                                 "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+                             ],
+        "countryNameTr":  "Suudi Arabistan"
+    },
+    {
+        "countryName":  "Sudan",
+        "countryCode":  "SD",
+        "capital":  "Khartoum",
+        "continent":  "Africa",
+        "currency":  "Sudanese pound",
+        "currencyCode":  "SDG",
+        "flag":  "🇸🇩",
+        "mapImage":  "map_sd",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SD",
+                                 "Republic of the Sudan",
+                                 "Jumhūrīyat as-Sūdān"
+                             ],
+        "countryNameTr":  "Sudan"
+    },
+    {
+        "countryName":  "Senegal",
+        "countryCode":  "SN",
+        "capital":  "Dakar",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇸🇳",
+        "mapImage":  "map_sn",
+        "famousPlaces":  [
+                             "Dakar",
+                             "GorÃ©e AdasÄ±",
+                             "Saloum Delta"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SN",
+                                 "Republic of Senegal",
+                                 "République du Sénégal"
+                             ],
+        "countryNameTr":  "Senegal"
+    },
+    {
+        "countryName":  "Singapore",
+        "countryCode":  "SG",
+        "capital":  "Singapore",
+        "continent":  "Asia",
+        "currency":  "Singapore dollar",
+        "currencyCode":  "SGD",
+        "flag":  "🇸🇬",
+        "mapImage":  "map_sg",
+        "famousPlaces":  [
+                             "Gardens by the Bay",
+                             "Marina Bay Sands",
+                             "Sentosa"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "SG",
+                                 "Singapura",
+                                 "Republik Singapura",
+                                 "新加坡共和国"
+                             ],
+        "countryNameTr":  "Singapur"
+    },
+    {
+        "countryName":  "Solomon Islands",
+        "countryCode":  "SB",
+        "capital":  "Honiara",
+        "continent":  "Oceania",
+        "currency":  "Solomon Islands dollar",
+        "currencyCode":  "SBD",
+        "flag":  "🇸🇧",
+        "mapImage":  "map_sb",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SB"
+                             ],
+        "countryNameTr":  "Solomon Adaları"
+    },
+    {
+        "countryName":  "Sierra Leone",
+        "countryCode":  "SL",
+        "capital":  "Freetown",
+        "continent":  "Africa",
+        "currency":  "Sierra Leonean leone",
+        "currencyCode":  "SLE",
+        "flag":  "🇸🇱",
+        "mapImage":  "map_sl",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SL",
+                                 "Republic of Sierra Leone"
+                             ],
+        "countryNameTr":  "Sierra Leone"
+    },
+    {
+        "countryName":  "El Salvador",
+        "countryCode":  "SV",
+        "capital":  "San Salvador",
+        "continent":  "Americas",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇸🇻",
+        "mapImage":  "map_sv",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SV",
+                                 "Republic of El Salvador",
+                                 "República de El Salvador"
+                             ],
+        "countryNameTr":  "El Salvador"
+    },
+    {
+        "countryName":  "San Marino",
+        "countryCode":  "SM",
+        "capital":  "City of San Marino",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇸🇲",
+        "mapImage":  "map_sm",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SM",
+                                 "Republic of San Marino",
+                                 "Repubblica di San Marino"
+                             ],
+        "countryNameTr":  "San Marino"
+    },
+    {
+        "countryName":  "Somalia",
+        "countryCode":  "SO",
+        "capital":  "Mogadishu",
+        "continent":  "Africa",
+        "currency":  "Somali shilling",
+        "currencyCode":  "SOS",
+        "flag":  "🇸🇴",
+        "mapImage":  "map_so",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SO",
+                                 "aṣ-Ṣūmāl",
+                                 "Federal Republic of Somalia",
+                                 "Jamhuuriyadda Federaalka Soomaaliya"
+                             ],
+        "countryNameTr":  "Somali"
+    },
+    {
+        "countryName":  "Serbia",
+        "countryCode":  "RS",
+        "capital":  "Belgrade",
+        "continent":  "Europe",
+        "currency":  "Serbian dinar",
+        "currencyCode":  "RSD",
+        "flag":  "🇷🇸",
+        "mapImage":  "map_rs",
+        "famousPlaces":  [
+                             "Belgrade Kalesi",
+                             "Äavolja VaroÅ¡",
+                             "Srebrenik"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "RS",
+                                 "Srbija",
+                                 "Republika Srbija",
+                                 "Србија"
+                             ],
+        "countryNameTr":  "Sırbistan"
+    },
+    {
+        "countryName":  "South Sudan",
+        "countryCode":  "SS",
+        "capital":  "Juba",
+        "continent":  "Africa",
+        "currency":  "South Sudanese pound",
+        "currencyCode":  "SSP",
+        "flag":  "🇸🇸",
+        "mapImage":  "map_ss",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SS"
+                             ],
+        "countryNameTr":  "Güney Sudan"
+    },
+    {
+        "countryName":  "São Tomé and Príncipe",
+        "countryCode":  "ST",
+        "capital":  "São Tomé",
+        "continent":  "Africa",
+        "currency":  "São Tomé and Príncipe dobra",
+        "currencyCode":  "STN",
+        "flag":  "🇸🇹",
+        "mapImage":  "map_st",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ST",
+                                 "Democratic Republic of São Tomé and Príncipe",
+                                 "Sao Tome and Principe",
+                                 "República Democrática de São Tomé e Príncipe"
+                             ],
+        "countryNameTr":  "São Tomé ve Príncipe"
+    },
+    {
+        "countryName":  "Suriname",
+        "countryCode":  "SR",
+        "capital":  "Paramaribo",
+        "continent":  "Americas",
+        "currency":  "Surinamese dollar",
+        "currencyCode":  "SRD",
+        "flag":  "🇸🇷",
+        "mapImage":  "map_sr",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SR",
+                                 "Sarnam",
+                                 "Sranangron",
+                                 "Republic of Suriname"
+                             ],
+        "countryNameTr":  "Surinam"
+    },
+    {
+        "countryName":  "Slovakia",
+        "countryCode":  "SK",
+        "capital":  "Bratislava",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇸🇰",
+        "mapImage":  "map_sk",
+        "famousPlaces":  [
+                             "SpiÅ¡ Kalesi",
+                             "High Tatras",
+                             "Bratislava"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SK",
+                                 "Slovak Republic",
+                                 "Slovenská republika"
+                             ],
+        "countryNameTr":  "Slovakya"
+    },
+    {
+        "countryName":  "Slovenia",
+        "countryCode":  "SI",
+        "capital":  "Ljubljana",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇸🇮",
+        "mapImage":  "map_si",
+        "famousPlaces":  [
+                             "Bled GÃ¶lÃ¼",
+                             "Postojna MaÄŸarasÄ±",
+                             "Ljubljana"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SI",
+                                 "Republic of Slovenia",
+                                 "Republika Slovenija"
+                             ],
+        "countryNameTr":  "Slovenya"
+    },
+    {
+        "countryName":  "Sweden",
+        "countryCode":  "SE",
+        "capital":  "Stockholm",
+        "continent":  "Europe",
+        "currency":  "Swedish krona",
+        "currencyCode":  "SEK",
+        "flag":  "🇸🇪",
+        "mapImage":  "map_se",
+        "famousPlaces":  [
+                             "Vasa MÃ¼zesi",
+                             "Stockholm Kraliyet SarayÄ±",
+                             "GÃ¶ta KÃ¶prÃ¼sÃ¼"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "SE",
+                                 "Kingdom of Sweden",
+                                 "Konungariket Sverige"
+                             ],
+        "countryNameTr":  "İsveç"
+    },
+    {
+        "countryName":  "Eswatini",
+        "countryCode":  "SZ",
+        "capital":  "Lobamba",
+        "continent":  "Africa",
+        "currency":  "Swazi lilangeni",
+        "currencyCode":  "SZL",
+        "flag":  "🇸🇿",
+        "mapImage":  "map_sz",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SZ",
+                                 "Swaziland",
+                                 "weSwatini",
+                                 "Swatini"
+                             ],
+        "countryNameTr":  "Esvatini"
+    },
+    {
+        "countryName":  "Seychelles",
+        "countryCode":  "SC",
+        "capital":  "Victoria",
+        "continent":  "Africa",
+        "currency":  "Seychellois rupee",
+        "currencyCode":  "SCR",
+        "flag":  "🇸🇨",
+        "mapImage":  "map_sc",
+        "famousPlaces":  [
+                             "Anse Source d Argent",
+                             "Victoria",
+                             "Aldabra"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "SC",
+                                 "Republic of Seychelles",
+                                 "Repiblik Sesel",
+                                 "République des Seychelles"
+                             ],
+        "countryNameTr":  "Seyşeller"
+    },
+    {
+        "countryName":  "Syria",
+        "countryCode":  "SY",
+        "capital":  "Damascus",
+        "continent":  "Asia",
+        "currency":  "Syrian pound",
+        "currencyCode":  "SYP",
+        "flag":  "🇸🇾",
+        "mapImage":  "map_sy",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "SY",
+                                 "Syrian Arab Republic",
+                                 "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+                             ],
+        "countryNameTr":  "Suriye"
+    },
+    {
+        "countryName":  "Chad",
+        "countryCode":  "TD",
+        "capital":  "N\u0027Djamena",
+        "continent":  "Africa",
+        "currency":  "Central African CFA franc",
+        "currencyCode":  "XAF",
+        "flag":  "🇹🇩",
+        "mapImage":  "map_td",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TD",
+                                 "Tchad",
+                                 "Republic of Chad",
+                                 "République du Tchad"
+                             ],
+        "countryNameTr":  "çad"
+    },
+    {
+        "countryName":  "Togo",
+        "countryCode":  "TG",
+        "capital":  "Lomé",
+        "continent":  "Africa",
+        "currency":  "West African CFA franc",
+        "currencyCode":  "XOF",
+        "flag":  "🇹🇬",
+        "mapImage":  "map_tg",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TG",
+                                 "Togolese",
+                                 "Togolese Republic",
+                                 "République Togolaise"
+                             ],
+        "countryNameTr":  "Togo"
+    },
+    {
+        "countryName":  "Thailand",
+        "countryCode":  "TH",
+        "capital":  "Bangkok",
+        "continent":  "Asia",
+        "currency":  "Thai baht",
+        "currencyCode":  "THB",
+        "flag":  "🇹🇭",
+        "mapImage":  "map_th",
+        "famousPlaces":  [
+                             "Grand Palace",
+                             "Wat Pho",
+                             "Phi Phi AdalarÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "TH",
+                                 "Prathet",
+                                 "Thai",
+                                 "Kingdom of Thailand"
+                             ],
+        "countryNameTr":  "Tayland"
+    },
+    {
+        "countryName":  "Tajikistan",
+        "countryCode":  "TJ",
+        "capital":  "Dushanbe",
+        "continent":  "Asia",
+        "currency":  "Tajikistani somoni",
+        "currencyCode":  "TJS",
+        "flag":  "🇹🇯",
+        "mapImage":  "map_tj",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TJ",
+                                 "Toçikiston",
+                                 "Republic of Tajikistan",
+                                 "Ҷумҳурии Тоҷикистон"
+                             ],
+        "countryNameTr":  "Tacikistan"
+    },
+    {
+        "countryName":  "Turkmenistan",
+        "countryCode":  "TM",
+        "capital":  "Ashgabat",
+        "continent":  "Asia",
+        "currency":  "Turkmenistan manat",
+        "currencyCode":  "TMT",
+        "flag":  "🇹🇲",
+        "mapImage":  "map_tm",
+        "famousPlaces":  [
+                             "KÃ¶pet DaÄŸ",
+                             "AÅŸkabat",
+                             "Nisa"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TM"
+                             ],
+        "countryNameTr":  "Türkmenistan"
+    },
+    {
+        "countryName":  "Timor-Leste",
+        "countryCode":  "TL",
+        "capital":  "Dili",
+        "continent":  "Asia",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇹🇱",
+        "mapImage":  "map_tl",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "TL",
+                                 "East Timor",
+                                 "Timor",
+                                 "Democratic Republic of Timor-Leste"
+                             ],
+        "countryNameTr":  "Doğu Timor"
+    },
+    {
+        "countryName":  "Tonga",
+        "countryCode":  "TO",
+        "capital":  "Nuku\u0027alofa",
+        "continent":  "Oceania",
+        "currency":  "Tongan paʻanga",
+        "currencyCode":  "TOP",
+        "flag":  "🇹🇴",
+        "mapImage":  "map_to",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TO"
+                             ],
+        "countryNameTr":  "Tonga"
+    },
+    {
+        "countryName":  "Trinidad and Tobago",
+        "countryCode":  "TT",
+        "capital":  "Port of Spain",
+        "continent":  "Americas",
+        "currency":  "Trinidad and Tobago dollar",
+        "currencyCode":  "TTD",
+        "flag":  "🇹🇹",
+        "mapImage":  "map_tt",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "TT",
+                                 "Republic of Trinidad and Tobago"
+                             ],
+        "countryNameTr":  "Trinidad ve Tobago"
+    },
+    {
+        "countryName":  "Tunisia",
+        "countryCode":  "TN",
+        "capital":  "Tunis",
+        "continent":  "Africa",
+        "currency":  "Tunisian dinar",
+        "currencyCode":  "TND",
+        "flag":  "🇹🇳",
+        "mapImage":  "map_tn",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "TN",
+                                 "Republic of Tunisia",
+                                 "al-Jumhūriyyah at-Tūnisiyyah"
+                             ],
+        "countryNameTr":  "Tunus"
+    },
+    {
+        "countryName":  "Türkiye",
+        "countryCode":  "TR",
+        "capital":  "Ankara",
+        "continent":  "Asia",
+        "currency":  "Turkish lira",
+        "currencyCode":  "TRY",
+        "flag":  "🇹🇷",
+        "mapImage":  "map_tr",
+        "famousPlaces":  [
+                             "Ayasofya",
+                             "Kapadokya",
+                             "Pamukkale"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "TR",
+                                 "Turkiye",
+                                 "Republic of Turkey",
+                                 "Türkiye Cumhuriyeti"
+                             ],
+        "countryNameTr":  "Türkiye"
+    },
+    {
+        "countryName":  "Tuvalu",
+        "countryCode":  "TV",
+        "capital":  "Funafuti",
+        "continent":  "Oceania",
+        "currency":  "Australian dollar",
+        "currencyCode":  "AUD",
+        "flag":  "🇹🇻",
+        "mapImage":  "map_tv",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "TV"
+                             ],
+        "countryNameTr":  "Tuvalu"
+    },
+    {
+        "countryName":  "Tanzania",
+        "countryCode":  "TZ",
+        "capital":  "Dodoma",
+        "continent":  "Africa",
+        "currency":  "Tanzanian shilling",
+        "currencyCode":  "TZS",
+        "flag":  "🇹🇿",
+        "mapImage":  "map_tz",
+        "famousPlaces":  [
+                             "Kilimanjaro",
+                             "Serengeti",
+                             "Zanzibar"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "TZ",
+                                 "Tanzania, United Republic of",
+                                 "United Republic of Tanzania",
+                                 "Jamhuri ya Muungano wa Tanzania"
+                             ],
+        "countryNameTr":  "Tanzanya"
+    },
+    {
+        "countryName":  "Uganda",
+        "countryCode":  "UG",
+        "capital":  "Kampala",
+        "continent":  "Africa",
+        "currency":  "Ugandan shilling",
+        "currencyCode":  "UGX",
+        "flag":  "🇺🇬",
+        "mapImage":  "map_ug",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "UG",
+                                 "Republic of Uganda",
+                                 "Jamhuri ya Uganda"
+                             ],
+        "countryNameTr":  "Uganda"
+    },
+    {
+        "countryName":  "Ukraine",
+        "countryCode":  "UA",
+        "capital":  "Kyiv",
+        "continent":  "Europe",
+        "currency":  "Ukrainian hryvnia",
+        "currencyCode":  "UAH",
+        "flag":  "🇺🇦",
+        "mapImage":  "map_ua",
+        "famousPlaces":  [
+                             "Saint Sophia Katedrali",
+                             "Karpat DaÄŸlarÄ±",
+                             "Chernivtsi SarayÄ±"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "UA",
+                                 "Ukrayina"
+                             ],
+        "countryNameTr":  "Ukrayna"
+    },
+    {
+        "countryName":  "Uruguay",
+        "countryCode":  "UY",
+        "capital":  "Montevideo",
+        "continent":  "Americas",
+        "currency":  "Uruguayan peso",
+        "currencyCode":  "UYU",
+        "flag":  "🇺🇾",
+        "mapImage":  "map_uy",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "UY",
+                                 "Oriental Republic of Uruguay",
+                                 "República Oriental del Uruguay"
+                             ],
+        "countryNameTr":  "Uruguay"
+    },
+    {
+        "countryName":  "United States",
+        "countryCode":  "US",
+        "capital":  "Washington D.C.",
+        "continent":  "Americas",
+        "currency":  "United States dollar",
+        "currencyCode":  "USD",
+        "flag":  "🇺🇸",
+        "mapImage":  "map_us",
+        "famousPlaces":  [
+                             "Statue of Liberty",
+                             "Grand Canyon",
+                             "Yellowstone"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "US",
+                                 "USA",
+                                 "United States of America"
+                             ],
+        "countryNameTr":  "Amerika Birleşik Devletleri"
+    },
+    {
+        "countryName":  "Uzbekistan",
+        "countryCode":  "UZ",
+        "capital":  "Tashkent",
+        "continent":  "Asia",
+        "currency":  "Uzbekistani soʻm",
+        "currencyCode":  "UZS",
+        "flag":  "🇺🇿",
+        "mapImage":  "map_uz",
+        "famousPlaces":  [
+                             "Registan",
+                             "Samarkand",
+                             "Bukhara"
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "UZ",
+                                 "Republic of Uzbekistan",
+                                 "O‘zbekiston Respublikasi",
+                                 "Ўзбекистон Республикаси"
+                             ],
+        "countryNameTr":  "özbekistan"
+    },
+    {
+        "countryName":  "Vatican City",
+        "countryCode":  "VA",
+        "capital":  "Vatican City",
+        "continent":  "Europe",
+        "currency":  "Euro",
+        "currencyCode":  "EUR",
+        "flag":  "🇻🇦",
+        "mapImage":  "map_va",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "VA",
+                                 "Holy See (Vatican City State)",
+                                 "Vatican City State",
+                                 "Vatican"
+                             ],
+        "countryNameTr":  "Vatikan"
+    },
+    {
+        "countryName":  "Saint Vincent and the Grenadines",
+        "countryCode":  "VC",
+        "capital":  "Kingstown",
+        "continent":  "Americas",
+        "currency":  "Eastern Caribbean dollar",
+        "currencyCode":  "XCD",
+        "flag":  "🇻🇨",
+        "mapImage":  "map_vc",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "VC"
+                             ],
+        "countryNameTr":  "Saint Vincent ve Grenadinler"
+    },
+    {
+        "countryName":  "Venezuela",
+        "countryCode":  "VE",
+        "capital":  "Caracas",
+        "continent":  "Americas",
+        "currency":  "Venezuelan bolívar soberano",
+        "currencyCode":  "VES",
+        "flag":  "🇻🇪",
+        "mapImage":  "map_ve",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "VE",
+                                 "Bolivarian Republic of Venezuela",
+                                 "Venezuela, Bolivarian Republic of",
+                                 "República Bolivariana de Venezuela"
+                             ],
+        "countryNameTr":  "Venezuela"
+    },
+    {
+        "countryName":  "Vietnam",
+        "countryCode":  "VN",
+        "capital":  "Hanoi",
+        "continent":  "Asia",
+        "currency":  "Vietnamese đồng",
+        "currencyCode":  "VND",
+        "flag":  "🇻🇳",
+        "mapImage":  "map_vn",
+        "famousPlaces":  [
+                             "Hanoi Kalesi",
+                             "Ha Long Koyu",
+                             "Sapa"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "VN",
+                                 "Socialist Republic of Vietnam",
+                                 "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+                                 "Viet Nam"
+                             ],
+        "countryNameTr":  "Vietnam"
+    },
+    {
+        "countryName":  "Vanuatu",
+        "countryCode":  "VU",
+        "capital":  "Port Vila",
+        "continent":  "Oceania",
+        "currency":  "Vanuatu vatu",
+        "currencyCode":  "VUV",
+        "flag":  "🇻🇺",
+        "mapImage":  "map_vu",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "VU",
+                                 "Republic of Vanuatu",
+                                 "Ripablik blong Vanuatu",
+                                 "République de Vanuatu"
+                             ],
+        "countryNameTr":  "Vanuatu"
+    },
+    {
+        "countryName":  "Samoa",
+        "countryCode":  "WS",
+        "capital":  "Apia",
+        "continent":  "Oceania",
+        "currency":  "Samoan tālā",
+        "currencyCode":  "WST",
+        "flag":  "🇼🇸",
+        "mapImage":  "map_ws",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "hard",
+        "alternativeNames":  [
+                                 "WS",
+                                 "Independent State of Samoa",
+                                 "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+                             ],
+        "countryNameTr":  "Bağımsız Samoa Devleti"
+    },
+    {
+        "countryName":  "Yemen",
+        "countryCode":  "YE",
+        "capital":  "Sana\u0027a",
+        "continent":  "Asia",
+        "currency":  "Yemeni rial",
+        "currencyCode":  "YER",
+        "flag":  "🇾🇪",
+        "mapImage":  "map_ye",
+        "famousPlaces":  [
+
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "YE",
+                                 "Yemeni Republic",
+                                 "al-Jumhūriyyah al-Yamaniyyah"
+                             ],
+        "countryNameTr":  "Yemen"
+    },
+    {
+        "countryName":  "South Africa",
+        "countryCode":  "ZA",
+        "capital":  "Pretoria",
+        "continent":  "Africa",
+        "currency":  "South African rand",
+        "currencyCode":  "ZAR",
+        "flag":  "🇿🇦",
+        "mapImage":  "map_za",
+        "famousPlaces":  [
+                             "Table Mountain",
+                             "Kruger Milli ParkÄ±",
+                             "Cape of Good Hope"
+                         ],
+        "difficulty":  "easy",
+        "alternativeNames":  [
+                                 "ZA",
+                                 "RSA",
+                                 "Suid-Afrika",
+                                 "Republic of South Africa"
+                             ],
+        "countryNameTr":  "Güney Afrika"
+    },
+    {
+        "countryName":  "Zambia",
+        "countryCode":  "ZM",
+        "capital":  "Lusaka",
+        "continent":  "Africa",
+        "currency":  "Zambian kwacha",
+        "currencyCode":  "ZMW",
+        "flag":  "🇿🇲",
+        "mapImage":  "map_zm",
+        "famousPlaces":  [
+                             "Victoria Falls",
+                             "Luangwa",
+                             "Lake Tanganyika"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ZM",
+                                 "Republic of Zambia"
+                             ],
+        "countryNameTr":  "Zambiya"
+    },
+    {
+        "countryName":  "Zimbabwe",
+        "countryCode":  "ZW",
+        "capital":  "Harare",
+        "continent":  "Africa",
+        "currency":  "Botswana pula",
+        "currencyCode":  "BWP",
+        "flag":  "🇿🇼",
+        "mapImage":  "map_zw",
+        "famousPlaces":  [
+                             "Victoria Falls",
+                             "Great Zimbabwe",
+                             "Hwange"
+                         ],
+        "difficulty":  "medium",
+        "alternativeNames":  [
+                                 "ZW",
+                                 "Republic of Zimbabwe"
+                             ],
+        "countryNameTr":  "Zimbabve"
+    }
+]

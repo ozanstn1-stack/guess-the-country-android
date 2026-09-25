@@ -1,0 +1,2 @@
+-keep class com.guesscountry.game.data.model.** { *; }
+-keepattributes SourceFile,LineNumberTable
